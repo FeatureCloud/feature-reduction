@@ -1,0 +1,5 @@
+fc_feature_reduction:
+  files:
+    input: input.csv
+    sep: ,
+    label_column: a
